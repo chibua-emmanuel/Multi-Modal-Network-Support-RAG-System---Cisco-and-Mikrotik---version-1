@@ -18,7 +18,7 @@ Welcome to the Multi-Modal Network Support RAG System project! This project leve
 
 ## Video Demonstration
 
-You can view the video demonstration of our project [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (replace with your actual link).
+You can view the video demonstration of our project [here](https://youtu.be/LbLDn-_E_UQ) https://youtu.be/LbLDn-_E_UQ
 
 ## Project Description
 
